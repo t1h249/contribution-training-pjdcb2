@@ -7,4 +7,4 @@
 - Blah Blah
 - Taylor
 
-My name is Htain Lin Kyaw.
+Htain Lin Kyaw
