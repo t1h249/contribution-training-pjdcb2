@@ -6,5 +6,6 @@
 - Aung Ko Min
 - Blah Blah
 - Taylor
+- Thang Hei Lian
 
 - Htain Lin Kyaw
